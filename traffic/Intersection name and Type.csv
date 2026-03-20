@@ -1,0 +1,14 @@
+intersection_id,intersection_name,intersection_type
+int01,Concord St. & Crosswind St.,Collector & Collector
+int02,Strawberry St. & Crosswind St.,Arterial & Collector
+int03,Meadow St & Crosswind St.,Collector & Collector
+int04,Briarwood St & Aspen St,Arterial & Collector
+int05,King St & Whitestone St,Arterial & Collector
+int06,King St & Vermont Hwy,Arterial & Highway
+int07,King St & Pine Ave,Arterial & Arterial
+int08,Emerson St & Juniper St,Arterial & Arterial
+int09,Briarwood St & Pine Ave,Arterial & Arterial
+int10,Marion St & Pine Ave,Collector & Arterial
+int11,Concord St. & West Ave,Collector & Collector
+int12,Strawberry St. & West Ave,Arterial & Collector
+int13,Strawberry St. & King St,Arterial & Arterial

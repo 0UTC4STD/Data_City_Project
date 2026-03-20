@@ -1,0 +1,14 @@
+intersection_id,intersection_name,district_id,total_vehicle_count
+int01,Concord St. & Crosswind St.,dc002,4053
+int02,Strawberry St. & Crosswind St.,dc001,6626
+int03,Meadow St & Crosswind St.,dc001,3577
+int04,Briarwood St & Aspen St,dc001,2656
+int05,King St & Whitestone St,dc004,2878
+int06,King St & Vermont Hwy,dc007,3073
+int07,King St & Pine Ave,dc007,2684
+int08,Emerson St & Juniper St,dc005,3174
+int09,Briarwood St & Pine Ave,dc003,3832
+int10,Marion St & Pine Ave,dc003,3105
+int11,Concord St. & West Ave,dc002,4263
+int12,Strawberry St. & West Ave,dc001,6202
+int13,Strawberry St. & King St,dc004,2564
