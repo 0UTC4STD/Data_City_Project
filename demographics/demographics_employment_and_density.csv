@@ -1,3 +1,23 @@
+```sql
+SELECT
+  district_name, district_id, population, employment_rate, population_density,
+FROM
+  (
+    SELECT
+      district_name,
+      district_id,
+      population,
+      ROUND((NULLIF(employed_pop, 0) / population), 2) AS employment_rate,
+      CAST(population / NULLIF(area_acre * 0.0015, 0) AS INT64)
+        AS population_density
+    FROM `data-city-490717.Demographics.Data`
+  )
+WHERE employment_rate IS NOT NULL
+
+
+
+
+
 district_name,district_id,population,employment_rate,population_density
 Downtown,dc001,4701,0.66,11738
 Willow Junction,dc002,1826,0.62,6441
@@ -5,3 +25,5 @@ Green Springs,dc005,1281,0.64,3917
 South Beach,dc004,968,0.57,2473
 University,dc003,870,0.46,1415
 Hillside Brook,dc007,110,0.59,76
+
+
