@@ -13,6 +13,8 @@ The primary goal of this dataset is to provide **population context and land-use
 * **Raw Data:** `/data/raw/demographics.csv`
 * **Processed Data:** `/data/processed/demographics_employment_density.csv`
 * **Platform Used:** Google BigQuery
+* **Spreadsheet (with Pivot Tables):**
+  https://docs.google.com/spreadsheets/d/1QdkJI5ZYgkQTXjlkQtyHN-Nq7UX0UQnZfXkYOEwo3i0/edit?usp=sharing
 
 ---
 
