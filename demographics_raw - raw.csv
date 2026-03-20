@@ -1,8 +1,0 @@
-district_id,district_name,population,children,teens,adults,seniors,employed_pop,student_pop,avg_income_usd_monthly,area_acre,residential_count,commercial_count,industrial_count,office_count,storage_count
-dc001,Downtown,4701,103,30,4341,227,3085,1311,1747,267,148,14,0,27,0
-dc002,Willow Junction,1826,34,9,1715,68,1140,600,1674,189,504,8,0,23,0
-dc005,Green Springs,1281,104,24,1119,34,823,404,1575,218,479,3,0,0,0
-dc004,South Beach,968,18,5,905,40,555,361,1869,261,356,6,0,0,0
-dc003,University,870,152,35,622,61,397,391,2396,410,457,26,0,0,0
-dc007,Hillside Brook,110,5,1,102,2,65,40,1937,971,96,0,0,0,0
-dc006,Eastern Heights,0,0,0,0,0,0,0,0,828,0,0,92,0,25
