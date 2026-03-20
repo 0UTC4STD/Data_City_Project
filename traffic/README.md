@@ -13,34 +13,9 @@ The project demonstrates:
 
 ## Datasets
 
-### 1. Demographics
-**File:** `demographics_employment_density.csv`  
-**Description:** District-level population and employment metrics used to contextualize traffic data.
-
-| Column | Description |
-|--------|------------|
-| district_id | Unique district identifier |
-| district_name | District name |
-| population | Total population |
-| children | Population under 12 |
-| teens | Population 13–19 |
-| adults | Population 20–64 |
-| seniors | Population 65+ |
-| employed_pop | Number of employed residents |
-| student_pop | Number of students |
-| avg_income_usd_monthly | Average monthly income |
-| area_acre | District area in acres |
-| residential_count | Number of residential zones |
-| commercial_count | Number of commercial zones |
-| industrial_count | Number of industrial zones |
-| office_count | Number of office zones |
-| storage_count | Number of storage zones |
-
-**Pivot Tables:** You can explore population distribution and employment metrics in the spreadsheet [here](https://docs.google.com/spreadsheets/d/1QdkJI5ZYgkQTXjlkQtyHN-Nq7UX0UQnZfXkYOEwo3i0/edit?usp=sharing).
-
 ---
 
-### 2. Traffic
+###  Traffic
 **File:** `traffic_intersections.csv`  
 **Description:** Intersection-level traffic data collected across three 6-hour periods (morning, afternoon, evening). Each row contains traffic counts, lane information, and intersection types.
 
@@ -70,3 +45,6 @@ SELECT
   CONCAT(road_one, ' & ', road_two) AS intersection_name,
   CONCAT(road_one_type, ' & ', road_two_type) AS intersection_type
 FROM `data-city-490717.Traffic.Data`;
+
+---
+
