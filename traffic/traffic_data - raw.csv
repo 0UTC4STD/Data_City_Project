@@ -1,0 +1,14 @@
+intersection_id,district_id,road_one,road_one_type,road_two,road_two_type,intersection_type,lane_count,morning_traffic,afternoon_traffic,evening_traffic,pedestrian_crossing
+int01,dc002,Concord St.,Collector,Crosswind St.,Collector,4-way,4,975,1626,1452,TRUE
+int02,dc001,Strawberry St.,Arterial,Crosswind St.,Collector,4-way,6,2418,2017,2191,TRUE
+int03,dc001,Meadow St,Collector,Crosswind St.,Collector,4-way,4,988,1004,1585,TRUE
+int04,dc001,Briarwood St,Arterial,Aspen St,Collector,3-way,4,1102,853,701,TRUE
+int05,dc004,King St,Arterial,Whitestone St,Collector,3-way,4,1351,1258,269,TRUE
+int06,dc007,King St,Arterial,Vermont Hwy,Highway,3-way,5,618,194,2261,FALSE
+int07,dc007,King St,Arterial,Pine Ave,Arterial,3-way,5,1336,250,1098,TRUE
+int08,dc005,Emerson St,Arterial,Juniper St,Arterial,4-way,10,1085,935,1154,TRUE
+int09,dc003,Briarwood St,Arterial,Pine Ave,Arterial,3-way,6,1284,1386,1162,TRUE
+int10,dc003,Marion St,Collector,Pine Ave,Arterial,3-way,5,1188,829,1088,TRUE
+int11,dc002,Concord St.,Collector,West Ave,Collector,4-way,4,1145,1879,1239,TRUE
+int12,dc001,Strawberry St.,Arterial,West Ave,Collector,4-way,6,1789,2421,1992,TRUE
+int13,dc004,Strawberry St.,Arterial,King St,Arterial,3-way,5,1078,1162,324,TRUE
