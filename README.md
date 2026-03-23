@@ -78,7 +78,8 @@ Interactive dashboard built in Tableau to explore:
 - Top congested intersections  
 - Traffic volume by time period  
 - Traffic Density per intersection 
-- Total traffic per intersection  
+- Total traffic per intersection
+- Comparisons between our Most and Least Busy Intersections
 
 📊 **View Dashboard:**  
 https://public.tableau.com/views/DataCityProject/Congestion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
@@ -90,7 +91,7 @@ https://public.tableau.com/views/DataCityProject/Congestion?:language=en-US&:sid
 - Certain intersections show consistently high congestion across all time periods  
 - Congestion is not always tied to population — indicating infrastructure inefficiencies  
 - Peak congestion varies by location (not strictly rush-hour dependent)  
-- Some lower-population districts experience disproportionately high traffic  
+
 
 ---
 
