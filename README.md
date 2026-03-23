@@ -51,7 +51,7 @@ The objective is to:
 
 ### 3. Data Transformation (SQL – BigQuery)
 
-All transformations were performed in **Google BigQuery**.
+All transformations were performed in **Google BigQuery**, and complete breakdowns for each dataset are on the README.md in each respective folder.
 
 #### Key Techniques Used:
 - UNNEST (to unpivot time-based traffic data)
