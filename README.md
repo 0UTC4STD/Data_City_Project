@@ -141,11 +141,3 @@ The final output supports **data-driven transportation planning decisions**, spe
 
 ---
 
-## Next Steps
-
-- Develop a scoring model to prioritize intersections  
-- Propose optimized bus routes based on traffic flow  
-- Incorporate time-based routing strategies  
-- Expand dataset for long-term trend analysis  
-
----
