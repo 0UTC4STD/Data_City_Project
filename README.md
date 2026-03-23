@@ -2,6 +2,17 @@
 ----
 # Data City Traffic Optimization Project
 
+> End-to-end data analysis project identifying congestion patterns and optimizing transit decisions using SQL, Tableau, and real-world modeling techniques.
+
+## Project Summary
+
+This project analyzes traffic congestion in a rapidly growing city using a combination of SQL, data modeling, and visualization. Raw intersection-level traffic data and district demographics were collected, cleaned, and transformed into meaningful metrics such as congestion index, traffic density, and traffic per capita.
+
+By combining these datasets, the analysis identifies high-impact intersections, uncovers inefficiencies in infrastructure relative to population, and highlights when and where congestion is most severe. The results are presented in an interactive Tableau dashboard designed to support data-driven transportation planning decisions, including bus route and stop placement.
+
+
+*Special Thanks to Bruceyboy24804 and gnznroses for there mods that allowed me to see more data than the game allows*
+
 ## Overview
 
 Data City is experiencing rapid population and economic growth, leading to increased congestion across key intersections. This project analyzes traffic patterns and district-level demographics to identify high-impact areas and propose data-driven transportation solutions.
