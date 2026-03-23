@@ -149,8 +149,3 @@ The final output supports **data-driven transportation planning decisions**, spe
 - Expand dataset for long-term trend analysis  
 
 ---
-# Data City Project
-
-A demonstration of my Analysis skills on my self built and solved proposal for traffic restructuring in my fictional city of Data City (a city built using Cities Skylines 2)
-
-*Special Thanks to Bruceyboy24804 and gnznroses for there mods that allowed me to see more data than the game allows*
